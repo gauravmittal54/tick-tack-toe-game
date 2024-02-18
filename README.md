@@ -12,9 +12,9 @@ A simple tictactoe game made in c++
 
 # Functionality
 Currently you can only play 2 player mode and Human v/s Robot in this. Soon i'll be adding:
-- [ ] Human v/s robot(but u can never win)
-- [ ] Multiplayer mode(yeah that some tough shit)
-- *Added Human v/s Robot feature*
+- [ ] Human v/s robot
+- [ ] Multiplayer mode
+
 
 # Installation
 To use this game,
